@@ -1,9 +1,0 @@
-Free vs Paid median installs: Free=500000, Paid=5000
-Correlation (Reviews, Rating): 0.0594
-Top rated categories (>=50 apps):
-Category
-EDUCATION              4.36
-ART_AND_DESIGN         4.36
-BOOKS_AND_REFERENCE    4.34
-PERSONALIZATION        4.33
-PARENTING              4.30
